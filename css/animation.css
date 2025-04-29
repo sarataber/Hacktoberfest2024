@@ -6,6 +6,7 @@ body {
 }
 
 .content {
+  background-color: #16a085;
   position: absolute;
   top: 50%;
   left: 50%;
